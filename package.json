@@ -1,0 +1,15 @@
+{
+  "name": "browser-next-tick",
+  "version": "1.0.0",
+  "description": "A very small implementation of process.nextTick for the browser using requestAnimationFrame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleytodd/browser-next-tick.git"
+  },
+  "author": "Wes Todd",
+  "license": "ICS"
+}
