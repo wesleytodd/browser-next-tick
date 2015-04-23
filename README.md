@@ -4,7 +4,7 @@ This can be used as either a `process.nextTick` implementation or a `window.requ
 
 Usage:
 
-```javaascript
+```javascript
 
 var nextTick = require('browser-next-tick');
 
